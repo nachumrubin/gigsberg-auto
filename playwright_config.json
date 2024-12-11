@@ -1,0 +1,11 @@
+{
+  "base_url": "https://www.gigsberg.com",
+  "browser_type": "chromium",
+  "headless": false,
+  "timeout": 10000,
+  "credentials": {
+    "email": "nachum.a.rubin@gmail.com",
+    "password": "Qq123456",
+    "user_name": "Nachum Rubin"
+  }
+}
